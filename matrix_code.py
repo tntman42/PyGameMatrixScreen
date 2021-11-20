@@ -107,7 +107,7 @@ def loop(alphabet=None):
 
 
 def main():
-    alpha = 'GAMERS HEAVEN '
+    alpha = 'TEST TEXT '
     pygame.display.set_caption('The Matrix')
     clk = pygame.time.Clock()
     while True:
